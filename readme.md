@@ -4,7 +4,7 @@ Hey there! Welcome to my Multi-Agent Content Creator project - where I let AI ag
 
 ## What's this all about?
 
-I built this (Google Colab notebook)[https://github.com/kenny08gt/social_media_content_planner_Agents/blob/main/social_media_content_planner_Agents.ipynb] that leverages OpenAI's Agents SDK to create a collaborative AI workspace. The project uses three specialized agents that work together (and sometimes argue) to come up with the best content proposals:
+I built this [Google Colab notebook](https://github.com/kenny08gt/social_media_content_planner_Agents/blob/main/social_media_content_planner_Agents.ipynb) that leverages OpenAI's Agents SDK to create a collaborative AI workspace. The project uses three specialized agents that work together (and sometimes argue) to come up with the best content proposals:
 
 - 📝 **Copywriter Agent** - The wordsmith with a knack for compelling language
 - 📊 **CMO Agent** - The marketing strategist who keeps business goals in focus
